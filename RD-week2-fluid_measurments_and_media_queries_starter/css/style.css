@@ -1,12 +1,12 @@
 main {
-		width: 90%;
-		margin: 0 auto;
+	width: 90%;
+	margin: 0 auto;
     border: 3px solid black;
 	}
 .column {
     width:25%;
     display: inline-block;
-		margin-left:10px;
+	margin-left:10px;
     border: 1px dashed black;
 } 
 
@@ -31,4 +31,3 @@ h1, h2{
 	text-align: center;
 	text-transform: uppercase;
 }
-
